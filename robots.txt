@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://samman-lamsal.github.io/sitemap.xml
