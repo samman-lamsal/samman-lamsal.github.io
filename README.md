@@ -1,1 +1,0 @@
-# samman-lamsal.github.io
