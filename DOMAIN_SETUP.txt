@@ -1,0 +1,1 @@
+After masarpstudio.com is connected: replace https://samman-lamsal.github.io with https://masarpstudio.com in all .html, robots.txt and sitemap.xml files; add CNAME containing masarpstudio.com; then submit https://masarpstudio.com/sitemap.xml in Search Console.
