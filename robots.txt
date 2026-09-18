@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://samman-lamsal.github.io/sitemap.xml
+Sitemap: https://masarpstudio.com/sitemap.xml
