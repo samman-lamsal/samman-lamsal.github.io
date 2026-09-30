@@ -1,0 +1,20 @@
+MASARP Studio SEO + favicon update (2026-09-30)
+
+Included in this build:
+- Root /favicon.ico for search engines and browsers
+- PNG favicon sizes 16, 32, 48, 192 and 512
+- Apple touch icon and updated web manifest
+- New MASARP M logo in the navigation and homepage showcase
+- Updated Organization/WebSite structured data with logo and alternate site name
+- Enhanced VideoGame schema on project pages
+- Updated sitemap lastmod dates
+- Googlebot/Bingbot crawl directives
+
+After deploying:
+1. Confirm https://masarpstudio.com/favicon.ico loads the MASARP logo (not the 404 page).
+2. Confirm https://masarpstudio.com/sitemap.xml loads normally.
+3. In Google Search Console, inspect https://masarpstudio.com/ and click Request indexing.
+4. Submit https://masarpstudio.com/sitemap.xml in Search Console > Sitemaps.
+5. In Bing Webmaster Tools, request indexing for the homepage after deployment.
+
+Important: technical SEO can improve crawling/indexing, but no code change can guarantee a particular Google ranking. Brand ranking often improves after Google recrawls the site and collects stronger authority/link signals.
