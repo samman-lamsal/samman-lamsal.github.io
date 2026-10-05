@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://masarpstudio.com/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <image:image>
       <image:loc>https://masarpstudio.com/assets/img/covers-real/hunter-strike.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://masarpstudio.com/games/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <image:image>
       <image:loc>https://masarpstudio.com/assets/img/covers-real/carlrun.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://masarpstudio.com/samman-lamsal/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <image:image>
       <image:loc>https://masarpstudio.com/assets/img/profile/samman-lamsal.webp</image:loc>
     </image:image>
@@ -125,6 +125,55 @@
     <lastmod>2026-09-30</lastmod>
     <image:image>
       <image:loc>https://masarpstudio.com/assets/img/covers-real/sammu-craft.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://masarpstudio.com/games/rival-guys/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://masarpstudio.com/assets/img/covers-real/rival-guys.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://masarpstudio.com/games/be-the-queen/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://masarpstudio.com/assets/img/covers-real/be-the-queen.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://masarpstudio.com/games/dots-colour-connect/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://masarpstudio.com/assets/img/covers-real/dots-colour-connect.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://masarpstudio.com/games/orchextra/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://masarpstudio.com/assets/img/covers-real/orchextra.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://masarpstudio.com/games/snake-ladder-climber/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://masarpstudio.com/assets/img/covers-real/snake-ladder-climber.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://masarpstudio.com/games/lifsim-rebirth/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://masarpstudio.com/assets/img/covers-real/lifsim-rebirth.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://masarpstudio.com/games/lifsim-master/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://masarpstudio.com/assets/img/covers-real/lifsim-master.webp</image:loc>
     </image:image>
   </url>
 </urlset>

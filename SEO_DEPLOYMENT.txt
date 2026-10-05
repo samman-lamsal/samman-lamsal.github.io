@@ -18,3 +18,13 @@ After deploying:
 5. In Bing Webmaster Tools, request indexing for the homepage after deployment.
 
 Important: technical SEO can improve crawling/indexing, but no code change can guarantee a particular Google ranking. Brand ranking often improves after Google recrawls the site and collects stronger authority/link signals.
+
+Portfolio update (2026-10-05)
+- Expanded the catalog from 14 to 21 titles.
+- Added dedicated SEO-ready pages for Rival Guys, Be the Queen, Dots Colour Connect, Orchextra, Snake Ladder Climber, LifSim: Rebirth and LifSim: Master.
+- Added supplied artwork as optimized WebP cover files plus fallback SVGs.
+- Updated homepage ItemList structured data, developer portfolio copy and sitemap.
+- Added a stable root /favicon.svg plus explicit shortcut-icon and 16x16 favicon declarations on every HTML page.
+
+Favicon note: search engines may continue showing a generic globe until they recrawl the homepage/favicon URL. Keep the favicon URLs stable after deployment, then request homepage indexing in Google Search Console and Bing Webmaster Tools.
+

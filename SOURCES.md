@@ -26,3 +26,15 @@ The website copy was checked against the developer-provided public listing links
 
 ## iDev.Games
 - Sammu Craft - https://idev.games/game/sammu-craft
+
+## Developer-provided portfolio additions (5 October 2026)
+The following titles and cover art were supplied directly by the developer for inclusion in the MASARP Studio portfolio. Public listing URLs were not supplied in this update, so the project pages do not invent external store links.
+
+- Rival Guys — arena brawler / party game
+- Be the Queen — hyper-casual runner
+- Dots Colour Connect — dots-connect puzzle game
+- Orchextra — horror runner
+- Snake Ladder Climber — casual board game
+- LifSim: Rebirth — life simulation
+- LifSim: Master — life simulation; preparing/releasing on Facebook Instant Games
+
