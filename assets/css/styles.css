@@ -24,6 +24,8 @@
   --muted:#4d5a7b;
   --line:rgba(27,37,66,.14);
   --link:#2446c9;
+  --logo-fill:#ffc83a;
+  --logo-line:#1b2542;
 
   /* the one action colour */
   --action:#ffc23d;
@@ -68,6 +70,7 @@ html[data-theme="dark"]{
   --muted:#a9b3da;
   --line:rgba(200,210,255,.16);
   --link:#9db4ff;
+  --logo-line:#070a1c;
   --ok:#5fdcb2;
   --err:#ff8aa6;
   --d:rgba(5,7,20,.7);
@@ -150,13 +153,18 @@ p,li{text-wrap:pretty}
 
 /* ---------- Hero: the games are the hero ---------- */
 .hero{padding:56px 0 72px}
-.hero-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.9fr);gap:64px;align-items:center}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:64px;align-items:center}
+/* Game-logo lettering: fat fill, thick outline, hard extruded edge (the way
+   game studios set their titles). The outline and edge scale with the type. */
 h1{
-  font-weight:900;font-size:clamp(3rem,7.4vw,6.25rem);line-height:1;letter-spacing:-.035em;color:var(--ink);
-  /* inflated-clay lettering: a lit top edge and a soft drop */
-  text-shadow:0 2px 0 var(--l),0 10px 18px color-mix(in srgb,var(--d) 55%,transparent);
+  font-weight:900;font-size:clamp(2.5rem,4.8vw,4.25rem);line-height:1.08;letter-spacing:.01em;
+  color:var(--logo-fill);
+  -webkit-text-stroke:.14em var(--logo-line);paint-order:stroke fill;
+  filter:drop-shadow(0 .06em 0 var(--logo-line)) drop-shadow(0 .16em .12em rgba(27,37,66,.35));
+  transform:rotate(-2deg);transform-origin:0 100%;
+  margin-left:8px;
 }
-.hero h1{margin:0 0 24px;max-width:9ch}
+.hero h1{margin:8px 0 32px}
 .lead{font-size:20px;line-height:1.5;max-width:52ch;color:var(--ink-2);margin:0}
 .actions{display:flex;flex-wrap:wrap;gap:16px;margin-top:32px}
 
@@ -318,7 +326,7 @@ h1{
 /* ---------- Project pages ---------- */
 .page-hero{padding:56px 0 32px}
 .page-hero .kicker{margin-bottom:8px}
-.page-hero h1{font-size:clamp(2.5rem,6vw,4.5rem);margin:0 0 16px}
+.page-hero h1{font-size:clamp(2.25rem,5vw,3.75rem);margin:8px 0 24px}
 .page-hero p{max-width:56ch;color:var(--ink-2);font-size:20px;margin:0}
 .detail-grid{display:grid;grid-template-columns:1.1fr .7fr;gap:24px;align-items:start;margin-top:40px}
 .detail-grid>*{min-width:0}
