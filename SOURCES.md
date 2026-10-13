@@ -1,4 +1,4 @@
-# Public listing sources used for portfolio content
+# Public listing sources used for game page content
 
 The website copy was checked against the developer-provided public listing links on 17 September 2026.
 
@@ -27,8 +27,8 @@ The website copy was checked against the developer-provided public listing links
 ## iDev.Games
 - Sammu Craft - https://idev.games/game/sammu-craft
 
-## Developer-provided portfolio additions (5 October 2026)
-The following titles and cover art were supplied directly by the developer for inclusion in the MASARP Studio portfolio. Public listing URLs were not supplied in this update, so the project pages do not invent external store links.
+## Developer-provided game additions (5 October 2026)
+The following titles and cover art were supplied directly by the developer for inclusion on the MASARP Studio game site. Public listing URLs were not supplied in this update, so the project pages do not invent external store links.
 
 - Rival Guys — arena brawler / party game
 - Be the Queen — hyper-casual runner
