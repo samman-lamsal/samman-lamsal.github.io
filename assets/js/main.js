@@ -12,9 +12,9 @@ const filters=document.querySelectorAll('.filter');filters.forEach(btn=>btn.addE
     root.setAttribute('data-theme',mode);
     document.querySelectorAll('.theme-btn').forEach(b=>b.classList.toggle('active',b.dataset.theme===mode));
     const meta=document.querySelector('meta[name="theme-color"]');
-    if(meta)meta.setAttribute('content',mode==='light'?'#f8f7f3':'#0a0a0b');
+    if(meta)meta.setAttribute('content',mode==='dark'?'#262341':'#e7e4f6');
   };
-  apply(stored==='light'?'light':'dark');
+  apply(stored==='dark'?'dark':'light');
   document.querySelectorAll('.theme-btn').forEach(btn=>{
     btn.addEventListener('click',()=>{
       const mode=btn.dataset.theme;
