@@ -1,13 +1,13 @@
 {
   "name": "MASARP Studio",
   "short_name": "MASARP",
-  "description": "Independent game studio and game showcase by Samman Lamsal.",
+  "description": "Independent games, mobile apps and software development by Samman Lamsal.",
   "id": "/",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#e7e4f6",
-  "theme_color": "#e7e4f6",
+  "background_color": "#0c0b0e",
+  "theme_color": "#0c0b0e",
   "icons": [
     {
       "src": "/favicon-48x48.png",

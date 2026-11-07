@@ -1,0 +1,19 @@
+{
+  "html_pages": 29,
+  "page_width_cases": 116,
+  "internal_reference_checks": 1018,
+  "interaction_assertions": 9,
+  "errors": [],
+  "interaction_results": {
+    "mobile_menu_open": true,
+    "escape_closes_menu": true,
+    "outside_click_closes_menu": true,
+    "youtube_initially_dormant": true,
+    "youtube_activates_on_click": true,
+    "catalog_21_cards": true,
+    "catalog_search_matches": true,
+    "catalog_empty_state": true,
+    "catalog_apps_filter": true
+  },
+  "environment": "Headless Chromium with HTML/CSS/JS and images inlined for isolated rendering; not deployed website"
+}
