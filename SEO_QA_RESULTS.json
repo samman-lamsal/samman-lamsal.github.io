@@ -1,0 +1,22 @@
+{
+  "pages_scanned": 28,
+  "html_pages_total": 29,
+  "structured_data_blocks": 28,
+  "schema_node_types": {
+    "WebPage": 5,
+    "VideoGame": 20,
+    "BreadcrumbList": 21,
+    "CollectionPage": 1,
+    "ItemList": 1,
+    "SoftwareApplication": 1,
+    "WebSite": 1,
+    "Person": 1,
+    "Brand": 1,
+    "ProfilePage": 1
+  },
+  "sitemap_urls": 28,
+  "errors": [],
+  "warnings": [],
+  "source_body_unchanged": true,
+  "indexnow_tool_compile_pass": true
+}
